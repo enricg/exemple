@@ -1,2 +1,4 @@
-Primer exemple
-Afegeixo una nova línia, i faré un segon commit
+Primer ejemplo
+Añado una nueva línea, i haré un segundo commit
+------------------------------------------------
+Esta versión es la que está en idioma castellano
